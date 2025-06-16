@@ -1,4 +1,4 @@
-import Sushi from "./images/Sushi.png"
+import Sushi from "../images/Sushi.png"
 
 export const HomeFunction = () => {
 

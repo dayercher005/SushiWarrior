@@ -1,9 +1,9 @@
-import SushiItem1 from "./images/sushiMenu1.jpg";
-import SushiItem2 from "./images/sushiMenu2.jpg"
-import SushiItem3 from "./images/sushiMenu3.jpg";
-import SushiItem4 from "./images/sushiMenu4.jpg"
-import SushiItem5 from "./images/sushiMenu5.jpg";
-import SushiItem6 from "./images/sushiMenu6.jpg"
+import SushiItem1 from "../images/sushiMenu1.jpg";
+import SushiItem2 from "../images/sushiMenu2.jpg"
+import SushiItem3 from "../images/sushiMenu3.jpg";
+import SushiItem4 from "../images/sushiMenu4.jpg"
+import SushiItem5 from "../images/sushiMenu5.jpg";
+import SushiItem6 from "../images/sushiMenu6.jpg"
 
 export const MenuFunction = () => {
     const content = document.querySelector("#content");
