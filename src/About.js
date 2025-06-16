@@ -1,4 +1,4 @@
-import Sushi2 from "./Sushi2.png";
+import Sushi2 from "./images/Sushi2.png";
 
 export const AboutFunction = () => {
 
